@@ -1,4 +1,4 @@
-<img src="Frame 1.2.png" />
+<img src="Frame 1.png" />
 
 ## 📌 Pinned repositories
 
